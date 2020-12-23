@@ -24,7 +24,7 @@ func main(){
 		var emp employee.Employee
 		emp = employee.Emp(i)
 		emp.PrintName(sliceStr[0])
-		fmt.Print("Employee Salary: ", emp.PrintSalary(basic, tax))
+		fmt.Println("Employee Salary: \t", emp.PrintSalary(basic, tax))
 	}
 
 }
