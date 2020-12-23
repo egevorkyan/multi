@@ -20,7 +20,7 @@ Steps:
 7. Result - it can be any name of file and location, application will ask to input source file
    Enter Employees source file: /Users/eduardgevorkyan/Documents/GOLEARN/employees.txt
    Employee Id:     0
-   Employee Name:   Eduard Gevorkyan
+   Employee Name:   Edi Tester
    Employee Salary:         67000
    Employee Id:     1
    Employee Name:   Ben Parcker
