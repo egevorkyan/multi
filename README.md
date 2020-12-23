@@ -14,10 +14,13 @@ Steps:
 5. main function must be placed in root folder of your project
    - Example: empsalary.go, locates on same level as go.mod
 6. Simplefile employees.txt created which contains below information (Full Name, basic salary, tax)
+   ```bash
    Edi Tester,100000,33
    Ben Parcker,1500000,40
    Bill Nelson,45000,3
+   ```
 7. Result - it can be any name of file and location, application will ask to input source file
+   ```bash
    Enter Employees source file: /Users/eduardgevorkyan/Documents/GOLEARN/employees.txt
    Employee Id:     0
    Employee Name:   Edi Tester
@@ -28,3 +31,4 @@ Steps:
    Employee Id:     2
    Employee Name:   Bill Nelson
    Employee Salary:         43650
+   ```
